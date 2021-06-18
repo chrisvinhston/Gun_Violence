@@ -1,12 +1,10 @@
 # Gun Violence
 by Chris Vinh
 
-Inspect dataframe for trends and interpretations from about gun violence in the U.S. from 2013-2018.
-
-
+Inspect dataframe for trends and interpretations about gun violence in the U.S. from 2013-2018.
 
 ## Project Description
-1) Retrieve and Inspect data.
+1) Retrieve and Inspect the data.
 
 2) Cleaned the nessesary data.
 

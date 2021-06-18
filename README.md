@@ -16,8 +16,3 @@ Inspect dataframe for trends and interpretations about gun violence in the U.S. 
 - Horizontal bar - show between 2014-2017 which state had the most gun deaths. 
 - Bubble map- show the mass shootings between 2014-2017.  Hover shows city, date, num killed, weapons used.
 - Choropleth - show the each year 2014-2017 and amount of gun deaths per state.
-
-## Obstacles Encountered
-- Calculate the information wanted. 
-- Know how I wanted to visualize info. 
-- Visualize what I wanted to show.

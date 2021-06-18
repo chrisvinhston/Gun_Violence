@@ -1,7 +1,7 @@
-# Data_visualization
+# Gun Violence
 by Chris Vinh
 
-Make interpreations from dataframe about gun violence in the U.S. from 2013-2018.
+Inspect dataframe for trends and interpretations from about gun violence in the U.S. from 2013-2018.
 
 
 
@@ -10,9 +10,9 @@ Make interpreations from dataframe about gun violence in the U.S. from 2013-2018
 
 2) Cleaned the nessesary data.
 
-3) Interpretated data to make story
+3) Interpreted data to define the story of gun violence. 
 
-4) Made graphs to show those representations. 
+4) Produce graphs to show those representations. 
 - Multiple line graph - show which types of guns were used most during mass shootings. 
 - Bar - show the increase of gun deaths/injuries each year (2014-2018)
 - Horizontal bar - show between 2014-2017 which state had the most gun deaths. 
